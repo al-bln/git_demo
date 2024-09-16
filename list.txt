@@ -3,3 +3,7 @@
 -practice Java
 -practice git
 
+
+-new things from gitHub
+
+- do these things
